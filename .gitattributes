@@ -1,1 +1,4 @@
 619*json filter=lfs diff=lfs merge=lfs -text
+results_500M*.zip filter=lfs diff=lfs merge=lfs -text
+results_100M.zip filter=lfs diff=lfs merge=lfs -text
+results_100M_JSON.zip filter=lfs diff=lfs merge=lfs -text
